@@ -1,0 +1,7 @@
+C:\Users\Elmira\Desktop\C#\Csharp dersleri\Csharp dersleri\obj\Debug\Csharp dersleri.csproj.AssemblyReference.cache
+C:\Users\Elmira\Desktop\C#\Csharp dersleri\Csharp dersleri\obj\Debug\Csharp dersleri.csproj.CoreCompileInputs.cache
+C:\Users\Elmira\Desktop\C#\Csharp dersleri\Csharp dersleri\bin\Debug\Csharp dersleri.exe.config
+C:\Users\Elmira\Desktop\C#\Csharp dersleri\Csharp dersleri\bin\Debug\Csharp dersleri.exe
+C:\Users\Elmira\Desktop\C#\Csharp dersleri\Csharp dersleri\bin\Debug\Csharp dersleri.pdb
+C:\Users\Elmira\Desktop\C#\Csharp dersleri\Csharp dersleri\obj\Debug\Csharp dersleri.exe
+C:\Users\Elmira\Desktop\C#\Csharp dersleri\Csharp dersleri\obj\Debug\Csharp dersleri.pdb

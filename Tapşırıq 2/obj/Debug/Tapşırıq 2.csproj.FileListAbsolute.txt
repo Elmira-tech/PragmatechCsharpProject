@@ -1,0 +1,7 @@
+C:\Users\Elmira\Desktop\C#\Csharp dersleri\Tapşırıq 2\bin\Debug\Tapşırıq 2.exe.config
+C:\Users\Elmira\Desktop\C#\Csharp dersleri\Tapşırıq 2\bin\Debug\Tapşırıq 2.exe
+C:\Users\Elmira\Desktop\C#\Csharp dersleri\Tapşırıq 2\bin\Debug\Tapşırıq 2.pdb
+C:\Users\Elmira\Desktop\C#\Csharp dersleri\Tapşırıq 2\obj\Debug\Tapşırıq 2.csproj.CoreCompileInputs.cache
+C:\Users\Elmira\Desktop\C#\Csharp dersleri\Tapşırıq 2\obj\Debug\Tapşırıq 2.exe
+C:\Users\Elmira\Desktop\C#\Csharp dersleri\Tapşırıq 2\obj\Debug\Tapşırıq 2.pdb
+C:\Users\Elmira\Desktop\C#\Csharp dersleri\Tapşırıq 2\obj\Debug\Tapşırıq 2.csproj.AssemblyReference.cache

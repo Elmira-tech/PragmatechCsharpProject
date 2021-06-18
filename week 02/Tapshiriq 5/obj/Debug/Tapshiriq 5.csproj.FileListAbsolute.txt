@@ -1,0 +1,7 @@
+C:\Users\Elmira\Desktop\C#\Csharp dersleri\week 02\Tapshiriq 5\bin\Debug\Tapshiriq 5.exe.config
+C:\Users\Elmira\Desktop\C#\Csharp dersleri\week 02\Tapshiriq 5\bin\Debug\Tapshiriq 5.exe
+C:\Users\Elmira\Desktop\C#\Csharp dersleri\week 02\Tapshiriq 5\bin\Debug\Tapshiriq 5.pdb
+C:\Users\Elmira\Desktop\C#\Csharp dersleri\week 02\Tapshiriq 5\obj\Debug\Tapshiriq 5.csproj.AssemblyReference.cache
+C:\Users\Elmira\Desktop\C#\Csharp dersleri\week 02\Tapshiriq 5\obj\Debug\Tapshiriq 5.csproj.CoreCompileInputs.cache
+C:\Users\Elmira\Desktop\C#\Csharp dersleri\week 02\Tapshiriq 5\obj\Debug\Tapshiriq 5.exe
+C:\Users\Elmira\Desktop\C#\Csharp dersleri\week 02\Tapshiriq 5\obj\Debug\Tapshiriq 5.pdb

@@ -1,0 +1,7 @@
+C:\Users\Elmira\Desktop\C#\Csharp dersleri\week 02\Tapşırıq3\bin\Debug\Tapşırıq3.exe.config
+C:\Users\Elmira\Desktop\C#\Csharp dersleri\week 02\Tapşırıq3\bin\Debug\Tapşırıq3.exe
+C:\Users\Elmira\Desktop\C#\Csharp dersleri\week 02\Tapşırıq3\bin\Debug\Tapşırıq3.pdb
+C:\Users\Elmira\Desktop\C#\Csharp dersleri\week 02\Tapşırıq3\obj\Debug\Tapşırıq3.csproj.AssemblyReference.cache
+C:\Users\Elmira\Desktop\C#\Csharp dersleri\week 02\Tapşırıq3\obj\Debug\Tapşırıq3.csproj.CoreCompileInputs.cache
+C:\Users\Elmira\Desktop\C#\Csharp dersleri\week 02\Tapşırıq3\obj\Debug\Tapşırıq3.exe
+C:\Users\Elmira\Desktop\C#\Csharp dersleri\week 02\Tapşırıq3\obj\Debug\Tapşırıq3.pdb
